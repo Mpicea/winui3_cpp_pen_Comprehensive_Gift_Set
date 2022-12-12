@@ -28,4 +28,4 @@ Visual studio 2022에서 winui3 cpp 빈앱패키지됨으로 작성했습니다
 - exit는 프로젝트의 실행을 정지시킬 수 있습니다.
 
 ## 동영상
-https://youtu.be/l23MYxD2xcM
+https://youtu.be/s5_B4fnTDLw
