@@ -30,6 +30,7 @@ namespace winrt::Andong_Nation_University::implementation
         HWND hWnd{ 0 };
         windowNative->get_WindowHandle(&hWnd);
         SetWindowPos(hWnd, NULL, 400, 300, 810, 580, NULL);
+        this->Title(L"Andong Nation University");
     }
 
     int32_t MainWindow::MyProperty()
